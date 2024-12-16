@@ -140,7 +140,7 @@ O objetivo deste banco de dados é organizar e armazenar informações necessár
 O diagrama abaixo apresenta o modelo atualizado, com as entidades, relacionamentos e suas chaves primárias/estrangeiras:  
 
 <div align="center">  
-   <img src="coloque_o_link_aqui" alt="Diagrama ER Oficina Mecânica" width="800"/>  
+   <img src="https://github.com/WenFra005/Modelo-Conceitual-de_oficina/blob/main/modelo-conceitual/Diagrama%20ER.png" width="800"/>  
 </div>  
 
 ---
